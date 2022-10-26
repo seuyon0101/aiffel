@@ -1,4 +1,4 @@
-# first-repository
+# AIFFEL repository
 ---
 This is a repository for my AIFFEL bootcamp.
 
