@@ -1,5 +1,6 @@
 # first-repository
-## This is a repository for my AIFFE  bootcamp.
+---
+This is a repository for my AIFFE  bootcamp.
 
 ## Updates
 
