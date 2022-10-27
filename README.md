@@ -10,3 +10,5 @@ _This is a repository for my AIFFEL bootcamp._
     - This file contains practice code for making classes in jupyter.
 
 - 10/26 practicing git commands
+
+- 10/27 class and exception practice jupyter notebook
