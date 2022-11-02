@@ -16,3 +16,5 @@ _This is a repository for my AIFFEL bootcamp._
 - 11/1 added '밑시딥 강의 노트북'(to be updated)
 
 - 11/1 added exploration project no.1(to be updated)
+
+- 11/2 updated exploration and readme
