@@ -19,4 +19,6 @@ _This is a repository for my AIFFEL bootcamp._
 
 - 11/2 updated final version of  exploration
 
-- 11/5 added exploration projct no.2(to be updated)
+- 11/5 added exploration project no.2(to be updated)
+
+- 11/8 added opencv practice py
