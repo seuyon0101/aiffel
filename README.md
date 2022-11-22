@@ -15,14 +15,16 @@ _This is a repository for my AIFFEL bootcamp._
 
 - 11/1 added '밑시딥 강의 노트북'(to be updated)
 
-- 11/1 added exploration project no.1(to be updated)
+- 11/1 added exploration project no.1
 
 - 11/2 updated final version of  exploration
 
-- 11/5 added exploration project no.2(to be updated)
+- 11/5 added exploration project no.2
 
 - 11/8 added opencv practice py
 
-- 11/9 added exploration project no.3(to be updated)
+- 11/9 added exploration project no.3
 
-- 11/10 added exploration project no.4(to be updated)
+- 11/10 added exploration project no.4
+
+- 11/22 added exploration project no.5(to be updated)
