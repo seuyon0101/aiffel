@@ -31,3 +31,6 @@ _This is a repository for my AIFFEL bootcamp._
 
 - 11/29 added explroation porject no.6
 
+- 11/29 added explroation porject no.7
+
+- 12/02 added explroation porject no.8
