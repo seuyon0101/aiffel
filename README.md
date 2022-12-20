@@ -29,8 +29,18 @@ _This is a repository for my AIFFEL bootcamp._
 
 - 11/22 added exploration project no.5
 
-- 11/29 added explroation porject no.6
+- 11/29 added exploration project no.6
 
-- 11/29 added explroation porject no.7
+- 11/29 added exploration project no.7
 
-- 12/02 added explroation porject no.8
+- 12/02 added exploration project no.8
+
+- 12/17 added exploration project no.9
+
+- 12/17 added exploration project no.10
+
+- 12/17 added exploration project no.11
+
+- 12/17 added exploration project no.12
+
+- 12/20 added exploration project no.13 
